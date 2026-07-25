@@ -77,8 +77,6 @@ BS Information Technology Student • Aspiring AI Engineer • Agentic AI & RAG 
 
 ## 🐍 Contribution Snake
 
-> Enable GitHub Actions first.
-
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/MuhammadSufyanFarzand/MuhammadSufyanFarzand/output/github-contribution-grid-snake.svg">
