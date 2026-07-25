@@ -79,8 +79,8 @@ BS Information Technology Student • Aspiring AI Engineer • Agentic AI & RAG 
 
 > Enable GitHub Actions first.
 
-```html
+
 <p align="center">
 <img src="https://raw.githubusercontent.com/MuhammadSufyanFarzand/MuhammadSufyanFarzand/output/github-contribution-grid-snake.svg">
 </p>
-```
+
