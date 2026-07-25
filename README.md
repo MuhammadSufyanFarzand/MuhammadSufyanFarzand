@@ -1,82 +1,130 @@
-<h2 align="left">Hi 👋! My name is <b>Muhammad Sufyan Farzand</b> and I'm a <b>BS Information Technology Student | Aspiring AI Engineer | Agentic AI & RAG Developer</b> from <b>Pakistan 🇵🇰</b></h2>
+<h1 align="center">Hi 👋, I'm Muhammad Sufyan Farzand</h1>
 
-###
+<h3 align="center">
+🎓 BS Information Technology Student <br>
+🤖 Aspiring AI Engineer • Agentic AI • RAG Developer <br>
+🇵🇰 Pakistan
+</h3>
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph" />
-  <img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=dracula&hide_border=false" height="150" alt="languages graph" />
-</div>
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3500&pause=1000&center=true&vCenter=true&width=700&lines=Aspiring+AI+Engineer;Agentic+AI+Developer;LangChain+%7C+LangGraph+%7C+RAG;Python+%7C+Data+Science;Always+Learning+New+Things+🚀" />
+</p>
 
-###
+---
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif" />
+## 🚀 About Me
 
-###
+- 🎓 BS Information Technology Student
+- 🤖 Learning Agentic AI & Large Language Models
+- 🔍 Building Retrieval-Augmented Generation (RAG) applications
+- 🧠 Exploring LangChain & LangGraph
+- 📊 Interested in AI, Data Science & Intelligent Automation
+- 🌱 Currently improving Prompt Engineering & FastAPI
+- 🎯 Goal: Become a Professional AI Engineer
 
-<div align="left">
+---
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo" />
-  <img width="12" />
+## 📊 GitHub Stats
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="30" alt="numpy logo" />
-  <img width="12" />
+<p align="center">
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="30" alt="pandas logo" />
-  <img width="12" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=MuhammadSufyanFarzand&show_icons=true&theme=tokyonight&count_private=true"/>
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/plotly/plotly-original.svg" height="30" alt="plotly logo" />
-  <img width="12" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadSufyanFarzand&layout=compact&theme=tokyonight"/>
 
-  <img src="https://cdn.simpleicons.org/matplotlib/11557C" height="30" alt="matplotlib logo" />
-  <img width="12" />
+</p>
 
-  <img src="https://cdn.simpleicons.org/python/3776AB" height="30" alt="seaborn logo" />
-  <img width="12" />
+<p align="center">
 
-  <img src="https://cdn.simpleicons.org/langchain/1C3C3C" height="30" alt="langchain logo" />
-  <img width="12" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=MuhammadSufyanFarzand&theme=tokyonight"/>
 
-  <img src="https://cdn.simpleicons.org/python/3776AB" height="30" alt="langgraph logo" />
-  <img width="12" />
+</p>
 
-  <img src="https://img.shields.io/badge/RAG-FFB000?style=for-the-badge" height="25" alt="rag badge" />
-  <img width="12" />
+---
 
-  <img src="https://img.shields.io/badge/Prompt%20Engineering-7B68EE?style=for-the-badge" height="25" alt="prompt engineering badge" />
-  <img width="12" />
+## 🛠 Tech Stack
 
-  <img src="https://img.shields.io/badge/Agentic%20AI-0A192F?style=for-the-badge&logo=openai&logoColor=white" height="25" alt="agentic ai badge" />
+### 🤖 AI
 
-</div>
+![](https://img.shields.io/badge/Agentic_AI-black?style=for-the-badge)
+![](https://img.shields.io/badge/LangChain-00A67E?style=for-the-badge)
+![](https://img.shields.io/badge/LangGraph-6C63FF?style=for-the-badge)
+![](https://img.shields.io/badge/RAG-orange?style=for-the-badge)
+![](https://img.shields.io/badge/Prompt_Engineering-purple?style=for-the-badge)
+![](https://img.shields.io/badge/LLMs-red?style=for-the-badge)
 
-###
+### 💻 Programming
 
-<div align="left">
-  <a href="https://youtube.com/@YOUR_USERNAME">
-    <img src="https://img.shields.io/static/v1?message=YouTube&logo=youtube&label=&color=FF0000&logoColor=white&style=for-the-badge" height="35" alt="youtube logo" />
-  </a>
+<p>
 
-  <a href="https://instagram.com/YOUR_USERNAME">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&style=for-the-badge" height="35" alt="instagram logo" />
-  </a>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="45"/>
 
-  <a href="mailto:YOUR_EMAIL@gmail.com">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" height="35" alt="gmail logo" />
-  </a>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="45"/>
 
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="35" alt="linkedin logo" />
-  </a>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="45"/>
 
-  <a href="https://github.com/MuhammadSufyanFarzand">
-    <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=181717&logoColor=white&style=for-the-badge" height="35" alt="github logo" />
-  </a>
-</div>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="45"/>
 
-###
+</p>
 
-<br clear="both">
+### 📊 Data Science
 
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/snake-output/snake.svg" alt="Snake animation" />
+![](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
+![](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
+![](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge)
 
-###
+---
+
+## 🌐 Connect With Me
+
+<p align="left">
+
+<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="https://github.com/MuhammadSufyanFarzand">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="mailto:YOUR_EMAIL">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail"/>
+</a>
+
+<a href="https://www.youtube.com/@YOUR_CHANNEL">
+<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube"/>
+</a>
+
+<a href="https://www.instagram.com/YOUR_USERNAME">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram"/>
+</a>
+
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+> Enable the GitHub Action first, then use:
+
+```md
+<p align="center">
+  <img src="https://raw.githubusercontent.com/MuhammadSufyanFarzand/MuhammadSufyanFarzand/output/snake.svg" alt="Snake animation" />
+</p>
+```
+
+---
+
+<p align="center">
+
+![](https://komarev.com/ghpvc/?username=MuhammadSufyanFarzand&style=for-the-badge)
+
+</p>
+
+---
+
+<h3 align="center">
+⭐ Thanks for visiting my profile ⭐
+</h3>
